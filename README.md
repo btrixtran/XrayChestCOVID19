@@ -1,1 +1,0 @@
-# XrayChestCOVID19
